@@ -95,3 +95,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ---
 
 We hope you find this repository helpful and look forward to your contributions. Happy coding!
+
+## Authors
+
+- [@milan-p-eq](https://www.github.com/milan-p-eq)
